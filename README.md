@@ -139,59 +139,6 @@ research_focus = {
 
 ---
 
-## 📊 Research Interests
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((🧠 Medical AI))
-    🔬 Computational Pathology
-      📊 WSI Analysis
-        Patch Extraction
-        Feature Encoding
-      🖼️ Digital Pathology
-        CLAM Framework
-        PLIP Embeddings
-      🧬 Histopathology
-        Tissue Classification
-        Tumor Detection
-    🎯 Multimodal Learning
-      🖼️ Image + Genomics
-        WSI Integration
-        Omics Fusion
-      📝 Text Embeddings
-        Pathology Reports
-        Clinical Notes
-      🔀 Cross-modal Fusion
-        Attention Mechanisms
-        Dynamic Gating
-    ⏱️ Survival Analysis
-      📈 Hazard Prediction
-        Cox Models
-        Neural Networks
-      🎯 Prognostic Modeling
-        Risk Scores
-        Time-to-Event
-      ⚠️ Risk Stratification
-        Patient Grouping
-        Outcome Prediction
-    🔍 Explainable AI
-      💡 Model Interpretability
-        Attention Maps
-        Feature Attribution
-      🏥 Clinical Validation
-        Real-world Testing
-        Expert Evaluation
-      🤝 Trust & Transparency
-        Clinical Adoption
-        Ethical AI
-```
-
-</div>
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
