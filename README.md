@@ -139,7 +139,9 @@ research_focus = {
 ## 📊 Research Interests
 
 <div align="center">
-```mermaid
+  
+```
+mermaid
 mindmap
   root((🧠 Medical AI))
     🔬 Computational Pathology
