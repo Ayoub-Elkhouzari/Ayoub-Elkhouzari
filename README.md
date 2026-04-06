@@ -140,33 +140,48 @@ research_focus = {
 
 <div align="center">
 ```mermaid
-graph TB
-    A[🧠 Medical AI Research] --> B[🔬 Computational Pathology]
-    A --> C[🎯 Multimodal Learning]
-    A --> D[⏱️ Survival Analysis]
-    A --> E[🔍 Explainable AI]
-    
-    B --> B1[📊 WSI Analysis]
-    B --> B2[🖼️ Digital Pathology]
-    B --> B3[🧬 Histopathology]
-    
-    C --> C1[🖼️ Image + Genomics]
-    C --> C2[📝 Text Embeddings]
-    C --> C3[🔀 Cross-modal Fusion]
-    
-    D --> D1[📈 Hazard Prediction]
-    D --> D2[🎯 Prognostic Modeling]
-    D --> D3[⚠️ Risk Stratification]
-    
-    E --> E1[💡 Model Interpretability]
-    E --> E2[🏥 Clinical Validation]
-    E --> E3[🤝 Trust & Transparency]
-    
-    style A fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
-    style B fill:#f093fb,stroke:#f5576c,stroke-width:2px,color:#fff
-    style C fill:#4facfe,stroke:#00f2fe,stroke-width:2px,color:#fff
-    style D fill:#43e97b,stroke:#38f9d7,stroke-width:2px,color:#fff
-    style E fill:#fa709a,stroke:#fee140,stroke-width:2px,color:#fff
+mindmap
+  root((🧠 Medical AI))
+    🔬 Computational Pathology
+      📊 WSI Analysis
+        Patch Extraction
+        Feature Encoding
+      🖼️ Digital Pathology
+        CLAM Framework
+        PLIP Embeddings
+      🧬 Histopathology
+        Tissue Classification
+        Tumor Detection
+    🎯 Multimodal Learning
+      🖼️ Image + Genomics
+        WSI Integration
+        Omics Fusion
+      📝 Text Embeddings
+        Pathology Reports
+        Clinical Notes
+      🔀 Cross-modal Fusion
+        Attention Mechanisms
+        Dynamic Gating
+    ⏱️ Survival Analysis
+      📈 Hazard Prediction
+        Cox Models
+        Neural Networks
+      🎯 Prognostic Modeling
+        Risk Scores
+        Time-to-Event
+      ⚠️ Risk Stratification
+        Patient Grouping
+        Outcome Prediction
+    🔍 Explainable AI
+      💡 Model Interpretability
+        Attention Maps
+        Feature Attribution
+      🏥 Clinical Validation
+        Real-world Testing
+        Expert Evaluation
+      🤝 Trust & Transparency
+        Clinical Adoption
+        Ethical AI
 ```
 
 </div>
