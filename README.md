@@ -40,6 +40,7 @@
 ### **TMSE++** Framework 🚀
 
 An enhanced multimodal survival prediction system featuring:
+
 ```python
 research_focus = {
     "Cross-Modal Gating": "Dynamic attention mechanisms",
@@ -72,6 +73,8 @@ research_focus = {
 | Year | Publication | Venue | Status |
 |------|------------|-------|--------|
 | 2024 | Diabetic Macular Edema Prediction using Ultra-Widefield Fundus Images | **Springer** | ✅ Published |
+| 2026 | Eye Disease Classification using Expressive Neural Networks and Explainable AI | **NETYS** | 🔄 Under Review |
+
 </div>
 
 ---
@@ -139,19 +142,6 @@ research_focus = {
 ## 📊 Research Interests
 
 <div align="center">
-`````mermaid    # ← Opening backticks for code block
-mindmap
-  root((🧠 Medical AI))
-    ...
-````# ← Closing backticks
-
-        # ← This  should come AFTER the closing backticks
-````
-
-The issue is that the closing `` tag is **inside** the mermaid code block instead of outside it. Here's the corrected version:
-````markdown
-## 📊 Research Interests
-
 
 ```mermaid
 mindmap
@@ -199,7 +189,7 @@ mindmap
 ```
 
 </div>
-````
+
 ---
 
 ## 📈 GitHub Stats
@@ -214,6 +204,16 @@ mindmap
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-Elkhouzari&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayoub-Elkhouzari&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
