@@ -139,9 +139,21 @@ research_focus = {
 ## 📊 Research Interests
 
 <div align="center">
-  
-```
-mermaid
+`````mermaid    # ← Opening backticks for code block
+mindmap
+  root((🧠 Medical AI))
+    ...
+````# ← Closing backticks
+
+        # ← This  should come AFTER the closing backticks
+````
+
+The issue is that the closing `` tag is **inside** the mermaid code block instead of outside it. Here's the corrected version:
+````markdown
+## 📊 Research Interests
+
+
+```mermaid
 mindmap
   root((🧠 Medical AI))
     🔬 Computational Pathology
@@ -187,7 +199,7 @@ mindmap
 ```
 
 </div>
-
+````
 ---
 
 ## 📈 GitHub Stats
