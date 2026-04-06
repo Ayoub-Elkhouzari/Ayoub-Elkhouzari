@@ -127,13 +127,14 @@ research_focus = {
 <details>
 <summary><b>🎯 Specialized Skills</b></summary>
 <br>
-
-- 🕸️ **Graph Neural Networks (GNNs)** - Healthcare applications
-- 🎬 **Recommender Systems** - Collaborative filtering & deep learning approaches
+ 
+- 🎯 **Multimodal Learning** - Cross-modal fusion & attention mechanisms
+- 🧠 **Deep Learning** - Neural architectures & advanced optimization
+- 🤖 **Generative AI** - Foundation models & LLMs
 - 🔐 **Federated Learning** - Privacy-preserving ML
 - 🔍 **Explainable AI (XAI)** - Model interpretability
 - 🧬 **Computational Biology** - Genomics & omics integration
-
+ 
 </details>
 
 ---
