@@ -138,68 +138,36 @@ research_focus = {
 
 ## 📊 Research Interests
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 Core Research Areas
-
-<details open>
-<summary><b>Computational Pathology</b></summary>
-
-- 📊 Whole Slide Image (WSI) Analysis
-- 🖼️ Digital Pathology Systems
-- 🧬 Histopathological Feature Extraction
-- 🎯 CLAM & PLIP Integration
-
-</details>
-
-<details open>
-<summary><b>Multimodal Learning</b></summary>
-
-- 🖼️ Image + Genomics Integration
-- 📝 Pathology Text Embeddings
-- 🔀 Cross-modal Attention & Fusion
-- ⚡ Dynamic Gating Mechanisms
-
-</details>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Applied Focus
-
-<details open>
-<summary><b>Survival Analysis</b></summary>
-
-- 📈 Neural Hazard Prediction
-- 🎯 Prognostic Risk Modeling
-- ⚠️ Patient Risk Stratification
-- ⏱️ Time-to-Event Analysis
-
-</details>
-
-<details open>
-<summary><b>Trustworthy AI</b></summary>
-
-- 🔍 Model Interpretability & XAI
-- 🏥 Clinical Validation Studies
-- 🤝 Building Clinical Trust
-- 📊 Transparent Decision Making
-
-</details>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
-
-### 🚀 Emerging Interests
-
-![Graph Neural Networks](https://img.shields.io/badge/GNNs-Healthcare-blueviolet?style=for-the-badge)
-![Federated Learning](https://img.shields.io/badge/Federated_Learning-Privacy-green?style=for-the-badge)
-![Foundation Models](https://img.shields.io/badge/Foundation_Models-Medical_AI-orange?style=for-the-badge)
+```mermaid
+graph TB
+    A[🧠 Medical AI Research] --> B[🔬 Computational Pathology]
+    A --> C[🎯 Multimodal Learning]
+    A --> D[⏱️ Survival Analysis]
+    A --> E[🔍 Explainable AI]
+    
+    B --> B1[📊 WSI Analysis]
+    B --> B2[🖼️ Digital Pathology]
+    B --> B3[🧬 Histopathology]
+    
+    C --> C1[🖼️ Image + Genomics]
+    C --> C2[📝 Text Embeddings]
+    C --> C3[🔀 Cross-modal Fusion]
+    
+    D --> D1[📈 Hazard Prediction]
+    D --> D2[🎯 Prognostic Modeling]
+    D --> D3[⚠️ Risk Stratification]
+    
+    E --> E1[💡 Model Interpretability]
+    E --> E2[🏥 Clinical Validation]
+    E --> E3[🤝 Trust & Transparency]
+    
+    style A fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
+    style B fill:#f093fb,stroke:#f5576c,stroke-width:2px,color:#fff
+    style C fill:#4facfe,stroke:#00f2fe,stroke-width:2px,color:#fff
+    style D fill:#43e97b,stroke:#38f9d7,stroke-width:2px,color:#fff
+    style E fill:#fa709a,stroke:#fee140,stroke-width:2px,color:#fff
+```
 
 </div>
 
