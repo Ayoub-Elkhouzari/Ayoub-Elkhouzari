@@ -173,7 +173,7 @@ research_focus = {
 
 <div align="center">
 
-### 💡 *"Bridging the gap between AI and Healthcare through innovative multimodal approaches"*
+### 💡 *"Bridging the gap between AI and Healthcare through innovative approaches"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
