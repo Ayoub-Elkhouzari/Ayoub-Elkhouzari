@@ -24,7 +24,7 @@
 - 🏥 **Application Domain:** Cancer prognosis prediction, specifically bladder cancer (BLCA)
 - 🖥️ **Computing:** Working on Toubkal HPC cluster (SLURM-based, Lustre filesystem)
 - 📚 **Background:** MSc in Computer Science & Telecommunications | Former AI Engineer & Full-Stack Developer
-- 🌱 Currently exploring **Graph Neural Networks** and **Federated Learning** in Healthcare
+- 🌱 Currently exploring **Multi-Modals AI** and **Federated Learning** in Healthcare
 - 💬 Ask me about **Medical Imaging**, **Deep Learning**, or **Full-Stack Development**
 
 <br clear="right"/>
