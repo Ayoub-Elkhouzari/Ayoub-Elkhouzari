@@ -73,7 +73,6 @@ research_focus = {
 | Year | Publication | Venue | Status |
 |------|------------|-------|--------|
 | 2024 | Diabetic Macular Edema Prediction using Ultra-Widefield Fundus Images | **Springer** | ✅ Published |
-| 2026 | Eye Disease Classification using Expressive Neural Networks and Explainable AI | **NETYS** | 🔄 Under Review |
 
 </div>
 
