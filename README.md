@@ -138,27 +138,68 @@ research_focus = {
 
 ## 📊 Research Interests
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Core Research Areas
+
+<details open>
+<summary><b>Computational Pathology</b></summary>
+
+- 📊 Whole Slide Image (WSI) Analysis
+- 🖼️ Digital Pathology Systems
+- 🧬 Histopathological Feature Extraction
+- 🎯 CLAM & PLIP Integration
+
+</details>
+
+<details open>
+<summary><b>Multimodal Learning</b></summary>
+
+- 🖼️ Image + Genomics Integration
+- 📝 Pathology Text Embeddings
+- 🔀 Cross-modal Attention & Fusion
+- ⚡ Dynamic Gating Mechanisms
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Applied Focus
+
+<details open>
+<summary><b>Survival Analysis</b></summary>
+
+- 📈 Neural Hazard Prediction
+- 🎯 Prognostic Risk Modeling
+- ⚠️ Patient Risk Stratification
+- ⏱️ Time-to-Event Analysis
+
+</details>
+
+<details open>
+<summary><b>Trustworthy AI</b></summary>
+
+- 🔍 Model Interpretability & XAI
+- 🏥 Clinical Validation Studies
+- 🤝 Building Clinical Trust
+- 📊 Transparent Decision Making
+
+</details>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-```mermaid
-mindmap
-  root((Medical AI))
-    Computational Pathology
-      WSI Analysis
-      Digital Pathology
-      Histopathology
-    Multimodal Learning
-      Image + Genomics
-      Text Embeddings
-      Cross-modal Fusion
-    Survival Analysis
-      Hazard Prediction
-      Prognostic Modeling
-      Risk Stratification
-    Explainable AI
-      Model Interpretability
-      Clinical Validation
-      Trust & Transparency
-```
+
+### 🚀 Emerging Interests
+
+![Graph Neural Networks](https://img.shields.io/badge/GNNs-Healthcare-blueviolet?style=for-the-badge)
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-Privacy-green?style=for-the-badge)
+![Foundation Models](https://img.shields.io/badge/Foundation_Models-Medical_AI-orange?style=for-the-badge)
 
 </div>
 
